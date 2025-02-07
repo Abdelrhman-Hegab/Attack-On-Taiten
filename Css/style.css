@@ -116,6 +116,10 @@ ul a:hover {
         gap: 20px;
     }
 
+    ul a{
+       font-size: 18px; 
+    }
+
     .content h2 {
         font-size: 50px;
     }
